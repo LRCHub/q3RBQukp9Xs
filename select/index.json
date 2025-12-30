@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "桃色デイブレイク",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-30T14:38:51.422785Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桃色デイブレイク",
+      "artist": "Not Equal Me",
+      "has_synced": true,
+      "path": "select/01_桃色デイブレイク_Not_Equal_Me.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桃色デイブレイク",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/02_桃色デイブレイク_≠ME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桃色デイブレイク",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_桃色デイブレイク_≠ME.txt"
+    }
+  ]
+}
